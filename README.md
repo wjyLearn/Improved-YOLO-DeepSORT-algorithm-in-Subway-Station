@@ -4,3 +4,4 @@ We optimized and combined the YOLOv8 detection model and DeepSORT tracking algor
 # Yolov8
 Based on the improvement of YOLOv8 network, the output module with high dimensional features is removed in Head layer to simplify the model. A new fusion module is added in the Neck layer to fully integrate the feature information of different scales. CBAM attention mechanism is added to Backbone layer to enhance the extraction of useful feature information.
 
+https://github.com/wjyLearn/Improved-YOLO-DeepSORT-algorithm-in-Subway-Station/blob/main/YOLOv8.png
